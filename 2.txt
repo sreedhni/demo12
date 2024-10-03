@@ -1,0 +1,5 @@
+0--0 (master/main)
+   |
+   o
+   |
+   0(branch1)
